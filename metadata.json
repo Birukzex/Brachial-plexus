@@ -1,0 +1,5 @@
+{
+  "name": "PlexoLearn",
+  "description": "An intelligent tool powered by Gemini to assist in localizing Brachial Plexus injuries based on clinical and electrodiagnostic findings. For educational purposes only.",
+  "requestFramePermissions": []
+}

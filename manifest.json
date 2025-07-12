@@ -1,0 +1,21 @@
+{
+  "name": "PlexoLearn",
+  "short_name": "PlexoLearn",
+  "description": "An intelligent tool for localizing Brachial Plexus injuries.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/images/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
